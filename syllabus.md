@@ -6,13 +6,13 @@ Ten kurs nauczy Cię, jak myśleć o **danych** i ich **analizowaniu** w celu wy
 
 Będzie obejmować stawianie i analizowanie pytań takich jak:
 
--   Jak jest **formatowany** zbiór danych i czy jest to odpowiedni format dla tego, co chcę zrobić?
--   Czy ten zbiór danych jest **reprezentatywny** lub czy odzwierciedla **obiektywną próbę**?
--   Jakie **problemy techniczne** powinno się wziąć pod uwagę podczas porządkowania i czyszczenia danych?
--   Jakiej metody wizualizacji i analizy danych uzyć dla danej skali pomiarowej wybranej zmiennej?
--   Jak dobrać metodę wnioskowania z próby do zadanego problemu badawczego?
--   Jaki **model** jest najbardziej odpowiedni dla tych danych?
--   W jaki sposób **projektować i wdrażać** te modele - od [regresji liniowej](https://en.wikipedia.org/wiki/Linear_regression) do [maszyn wektorów nośnych](https://en.wikipedia.org/wiki/Support_vector_machine)?
+-   Jak jest **formatowany** zbiór danych i czy jest to odpowiedni format dla tego, co chcę zrobić? (cz. 1/2)
+-   Czy ten zbiór danych jest **reprezentatywny** lub czy odzwierciedla **obiektywną próbę**? (cz. 1/2)
+-   Jakie **problemy techniczne** powinno się wziąć pod uwagę podczas porządkowania i czyszczenia danych? (cz. 1/2)
+-   Jakiej metody wizualizacji i analizy danych uzyć dla danej skali pomiarowej wybranej zmiennej? (cz. 1/2)
+-   Jak dobrać metodę wnioskowania z próby do zadanego problemu badawczego? (cz. 2/2)
+-   Jaki **model** jest najbardziej odpowiedni dla tych danych? (cz. 2/2)
+-   W jaki sposób **projektować i wdrażać** te modele - od [regresji liniowej](https://en.wikipedia.org/wiki/Linear_regression) do [maszyn wektorów nośnych](https://en.wikipedia.org/wiki/Support_vector_machine)? (cz. 2/2)
 
 Tematy te zostaną omówione w kontekście serii krótkich **ćwiczeń praktycznych** z rzeczywistymi zestawami danych w **środowisku programistycznym Python**. Będziemy uzywać Visual Studio Code, formatu notatnika Jupyter Notebook, ew. pliku Markdown (MD) połączonego na stałe z Twoim repozytorium na GitHubie dzięki wtyczce GitLens.
 
@@ -21,25 +21,23 @@ Tematy te zostaną omówione w kontekście serii krótkich **ćwiczeń praktyczn
 Ten kurs ma na celu zapewnienie słuchacz(k)om szeregu narzędzi koncepcyjnych i technicznych. 
 Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
--   **Zdiagnozować** i **naprawić** problemy techniczne danych, począwszy od braków danych, obserwacji odstających, brudnych danych (niekonsystencji).
--   **Projektować** i **wdrażać** jasne, zwięzłe i dokładne przekrojowe wizualizacje danych.
--   **Proponować** i **testować** hipotezy dotyczące danych przy użyciu modeli statystycznych na próbie danych.
--   **Konstruować** modele statystyczne w Pythonie i **interpretować** wyniki.
--   Rozważać zalety i wady różnych metryk oceny modeli.
+-   **Zdiagnozować** i **naprawić** problemy techniczne danych, począwszy od braków danych, obserwacji odstających, brudnych danych (niekonsystencji). (cz. 1/2)
+-   **Projektować** i **wdrażać** jasne, zwięzłe i dokładne przekrojowe wizualizacje danych. (cz. 1/2)
+-   **Proponować** i **testować** hipotezy dotyczące danych przy użyciu modeli statystycznych na próbie danych. (cz. 2/2)
+-   **Konstruować** modele statystyczne w Pythonie i **interpretować** wyniki.  (cz. 2/2)
+-   Rozważać zalety i wady różnych metryk oceny modeli. (cz. 2/2)
 
 ## Logistyka kursu
 
-### Zespół dydaktyczny
+### Prowadzący - instruktor
 
 -   [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG / SAD część 1. w semestrze letnim.
--   [Paulina Listewnik](https://pl.linkedin.com/in/paulina-listewnik-phd-b9a62a137) - Kidde / SAD część 2. w semestrze zimowym.
 
 #### Konsultacje
 
 | Kto?              | Kiedy?      | Gdzie?                                                         |
 |--------------------|------------------------|-----------------------------|
 | Karol Flisikowski | Środy 14-15 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
-| Paulina Listewnik | --- | [E-mail](mailto:pgprogramowanie@gmail.com) |
 
 ### Kiedy/Gdzie?:
 

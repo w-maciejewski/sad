@@ -10,7 +10,7 @@ Będziesz pracować w małej grupie (2-3 osoby). Gorąco zachęcam do kontaktu, 
 
 Końcowym rezultatem (tym, co oddasz) będzie link do REPO na GitHubie, w którym Twój zespół umieści wszystkie pliki projektu: 
 
-- notatnik Jupyter z następującymi sekcjami (patrz tabela poniżej); każda sekcja jest warta określoną liczbę punktów, sumując do 20; **minimalna** liczba punktów, aby zaliczyć projekt to 10 (patrz [skala ocen](syllabus.md#skala-ocen)).
+- notatnik Jupyter z następującymi sekcjami (patrz tabela poniżej); każda sekcja jest warta określoną liczbę punktów, sumując do 16; **minimalna** liczba punktów, aby zaliczyć projekt to 10 (patrz [skala ocen](syllabus.md#skala-ocen)).
 - dane (np. pliki CSV).
 - dodatkowe pliki, mile widziane opublikowane estetycznie raporty EDA w formacie Markdown (MD, HTML, PDF itp.).
 
@@ -23,7 +23,6 @@ Końcowym rezultatem (tym, co oddasz) będzie link do REPO na GitHubie, w który
 | Czyszczenie i porządkowanie danych | 4 | Diagnostyka danych; braki - wizualizacja, omówienie, wzorzec, błędy w danych i ich naprawa, imputacja braków, obserwacje odstające - analiza. | Shadowmapy, heatmapy braków, omówienie wzorca, strategii imputacji braków, określenie reguł dla danych, wizualizacja naruszeń, naprawa, analiza obserwacji odstających z omówieniem. |
 | Wizualizacje | 4 | 4-5 wykresów przedstawiających określone wzorce lub cechy, które chcesz podkreślić. Każdej wizualizacji powinien towarzyszyć krótki (1-2 zdania) opis tego, co według Ciebie pokazuje. | Boxplot pokazujący **ceny** nieruchomości *według miast* lub innych charakterystyk - przekroje. Wykres słupkowy pokazujący proporcję mieszkań **o róznym standardzie wykończenia**. |
 | Analiza opisowa | 4 | 2-3 analizy opisowe, odnoszące się do pytania badawczego (pytań). Każdej analizie powinna towarzyszyć krótka (1-3 zdania) *interpretacja*. | Tabele statystyk opisowych - np. statystyki cen mieszkań wg róznych charakterystyk. Dobrze by było, aby otoczone były wizualizacjami na ten sam temat przewodni. Analiza korelacji - macierz korelacji (liniowych). Analiza korelacji innego typu (rangowa, jakościowa) - jeśli są tego typu zmienne. Heatmapy. |
-| Wnioskowanie statystyczne | 4 | Odnoszące się do pytań badawczych testy statystyczne (w tabeli lub na wizualizacjach) odpowiednie do załozeń, danych. | Np. testy t-Studenta, Anova lub ich zamienniki nieparametryczne badające róznice między średnimi cenami dla nieruchomości z i bez balkonu; z i bez windy; w 2 róznych miastach; wg czynnika - zmiennej grupującej np. ceny według piętra, standardu, liczby pokoi itp. |
 | Wnioski | 2 | Wyciągnięcie wniosków na temat zbioru danych i postawionych pytań. | Mile widziane ogólne podsumowanie, wnioski końcowe, ograniczenia dot. metod, propozycje na ciąg dalszy (modelowanie), itp. |
 
 
@@ -54,7 +53,8 @@ Znalezienie i połączenie wielu zestawów danych nie jest *konieczne* - tzn. mo
 
 Oto kilka przykładów rzeczy, które, choć nie są konieczne, uczyniłyby twój projekt trudniejszym, a tym samym bardziej imponującym:
 
-- **Łączenie** wielu zestawów danych, które znajdziesz, aby wykorzystać powiązanie danych.  
+- **Czyszczenie** danych (braki, brudne dane, diagnostyka i naprawa problemów).
 - Niestandardowe **pakiety i funkcje** wykorzystane w analizie danych. Mozesz pokazać, jak dany problem rozwiązuje się za pomocą alternatywnych funkcji z mniej popularnych / bardziej wyrafinowanych pakietów.
+- **Wizualizacja** danych (niestandardowe przekroje, faceting, poprawne zaadaptowanie wykresów do skal).
 - **Połączenie** opisu i testowania z wizualizacjami - np. labelki średnich, mediany, kwartyli lub wyników testu statystycznego na tle boxplotów, przeźroczystych histogramów, wykresów gęstości itp.
 
