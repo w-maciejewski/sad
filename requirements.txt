@@ -8,7 +8,7 @@ scipy
 seaborn
 warnings
 random
-dfcorrs
+https://github.com/ayanatherate/dfcorrs.git dfcorrs
 tabulate
 # To run the notebook
 jupyter
