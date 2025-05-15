@@ -6,7 +6,6 @@ scikit-learn
 plotly.express
 scipy
 seaborn
-warnings
 random
 tabulate
 # To run the notebook
