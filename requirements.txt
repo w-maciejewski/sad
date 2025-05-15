@@ -8,7 +8,6 @@ scipy
 seaborn
 warnings
 random
-dfcorrs
 tabulate
 # To run the notebook
 jupyter
