@@ -98,7 +98,7 @@ Z instruktorami można skontaktować się w następujący sposób:
 -   Prywatna wiadomość przez Discord.
 -   E-mail.
 
-Dołącz do kanału Discord kursu SAD tutaj: [kanał Discord SAD 2025](https://discord.gg/eEEhWjVV)
+Dołącz do kanału Discord kursu SAD tutaj: [kanał Discord SAD 2025](https://discord.gg/K5Z3pTjs)
 
 Należy pamiętać, że generalnie preferujemy komunikację przez Discord, a nie e-mail.
 
