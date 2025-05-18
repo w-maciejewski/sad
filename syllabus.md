@@ -52,7 +52,7 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 -   Sesja 1. 30/05/2025 16:30 - 19:45 Online: [link do spotkania](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjdjNGJhZjctNDM0MS00ZjZhLWE5OTgtOTkyYjdjOTc4OWQw%40thread.v2/0?context=%7b%22Tid%22%3a%2286760356-0022-486f-b793-a2d470bba5a5%22%2c%22Oid%22%3a%22cee5544e-5052-4880-984d-b175250e4a23%22%7d)
 -   Sesja 2. i 3. 31/05/2025 9:00 - 16:00 Online: [link do spotkania](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2FiOGNkZWEtZTMwYy00MzE2LTkwZTgtMjg4YmIyNzlhNTcw%40thread.v2/0?context=%7b%22Tid%22%3a%2286760356-0022-486f-b793-a2d470bba5a5%22%2c%22Oid%22%3a%22cee5544e-5052-4880-984d-b175250e4a23%22%7d)
--   Sesja 4. 21/06/2025 12:50 - 16:00 / sala
+-   Sesja 4. 21/06/2025 12:50 - 16:00 / Online [link do spotkania](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzU1YTE5YzMtMDRmNy00MjAwLWFlM2YtMGQwMjgyZTNmZmU1%40thread.v2/0?context=%7b%22Tid%22%3a%2286760356-0022-486f-b793-a2d470bba5a5%22%2c%22Oid%22%3a%22cee5544e-5052-4880-984d-b175250e4a23%22%7d)
 -   Termin nadesłania projektu: najpóźniej do 30/06/2025 23:59. Mailowo podeślijcie mi tylko link do REPO projektu.
 
 ## Ocena końcowa
